@@ -1,0 +1,1 @@
+kubectl create secret docker-registry  gitlab-registry-secret --docker-server=registry.gitlab.com --docker-username=aliqannan --docker-password=glpat-v2xx_XIRGwQz7NhVQ6ZJUGM6MQpvOjEKdTpudGRwNg8.01.1718m4wap
